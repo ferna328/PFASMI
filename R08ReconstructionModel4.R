@@ -1,6 +1,7 @@
 ######################## R08ReconstructionModel4.R #############################
 # Research Paper: Large-scale Assessment of PFAS Compounds in Drinking Water   #
-# Sources through Machine Learning                                             #
+# Sources using Machine Learning                                               #
+# https://doi.org/10.1016/j.watres.2023.120307                                 #
 # Nicolas Fernandez, A. Pouyan Nejadhashemi, Christian Loveall                 #
 # Department of Biosystems and Agricultural Engineering                        #
 # Michigan State University, East Lansing, MI, United States                   #
